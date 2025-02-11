@@ -1,2 +1,0 @@
-1 - docker build -t <app> .
-2 - docker run -d -p 8080:80 <app>
